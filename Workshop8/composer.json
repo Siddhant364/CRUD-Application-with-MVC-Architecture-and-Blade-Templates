@@ -1,0 +1,11 @@
+{
+    "name": "sid/workshop8",
+    "require": {
+        "jenssegers/blade": "^1.4",
+        "illuminate/view": "^8.0",
+        "illuminate/filesystem": "^8.0",
+        "illuminate/events": "^8.0",
+        "illuminate/container": "^8.0",
+        "illuminate/support": "^8.0"
+    }
+}
